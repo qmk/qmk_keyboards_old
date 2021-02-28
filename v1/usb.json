@@ -2062,6 +2062,11 @@
                 "coseyfannitutti/mysterium": { "device_ver": "0x0001", "pid": "0x8769", "vid": "0x6B62" }
             }
         },
+        "0x6B6E": {
+            "0x0001": {
+                "barracuda": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x6B6E" }
+            }
+        },
         "0x6BE3": {
             "0xA129": {
                 "odelia": { "device_ver": "0x0001", "pid": "0xA129", "vid": "0x6BE3" }
@@ -4166,5 +4171,5 @@
             }
         }
     },
-    "last_updated": "2021-02-28 05:58:00 GMT"
+    "last_updated": "2021-02-28 06:03:36 GMT"
 }
