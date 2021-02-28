@@ -2273,6 +2273,11 @@
                 "clawsome/sedan": { "device_ver": "0x0001", "pid": "0x8C78", "vid": "0x7767" }
             }
         },
+        "0x77C8": {
+            "0x0001": {
+                "7c8/framework": { "device_ver": "0x0000", "pid": "0x0001", "vid": "0x77C8" }
+            }
+        },
         "0x7807": {
             "0xDCCB": {
                 "reviung41": { "device_ver": "0x0001", "pid": "0xDCCB", "vid": "0x7807" }
@@ -4150,5 +4155,5 @@
             }
         }
     },
-    "last_updated": "2021-02-28 05:04:45 GMT"
+    "last_updated": "2021-02-28 05:31:24 GMT"
 }
