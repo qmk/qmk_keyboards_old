@@ -1721,7 +1721,8 @@
         },
         "0x5845": {
             "0x0060": {
-                "xelus/dawn60/rev1": { "device_ver": "0x0001", "pid": "0x0060", "vid": "0x5845" }
+                "xelus/dawn60/rev1": { "device_ver": "0x0001", "pid": "0x0060", "vid": "0x5845" },
+                "xelus/dawn60/rev1_qmk": { "device_ver": "0x0001", "pid": "0x0060", "vid": "0x5845" }
             },
             "0x4654": {
                 "xelus/valor_frl_tkl": { "device_ver": "0x0001", "pid": "0x4654", "vid": "0x5845" }
@@ -3270,6 +3271,7 @@
             },
             "0x0001": {
                 "abstract/ellipse/rev1": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0xFEED" },
+                "buildakb/potato65": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0xFEED" },
                 "converter/palm_usb": { "device_ver": "0x0100", "pid": "0x0001", "vid": "0xFEED" },
                 "converter/palm_usb/stowaway": { "device_ver": "0x0100", "pid": "0x0001", "vid": "0xFEED" }
             },
@@ -4171,5 +4173,5 @@
             }
         }
     },
-    "last_updated": "2021-02-28 06:03:36 GMT"
+    "last_updated": "2021-02-28 06:05:44 GMT"
 }
