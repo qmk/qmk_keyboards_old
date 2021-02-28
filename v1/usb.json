@@ -3011,6 +3011,9 @@
             "0x0004": {
                 "nightly_boards/octopad": { "device_ver": "0x0001", "pid": "0x0004", "vid": "0xD812" }
             },
+            "0x0007": {
+                "nightly_boards/n60_s": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xD812" }
+            },
             "0x0009": {
                 "nightly_boards/n40_o": { "device_ver": "0x0001", "pid": "0x0009", "vid": "0xD812" }
             }
@@ -4158,5 +4161,5 @@
             }
         }
     },
-    "last_updated": "2021-02-28 05:39:47 GMT"
+    "last_updated": "2021-02-28 05:44:56 GMT"
 }
