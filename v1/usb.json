@@ -4159,7 +4159,12 @@
             "0xAA03": {
                 "westfoxtrot/prophet": { "device_ver": "0x0001", "pid": "0xAA03", "vid": "0xFF21" }
             }
+        },
+        "0xFFFE": {
+            "0x4155": {
+                "oddforge/vea": { "device_ver": "0x0100", "pid": "0x4155", "vid": "0xFFFE" }
+            }
         }
     },
-    "last_updated": "2021-02-28 05:51:51 GMT"
+    "last_updated": "2021-02-28 05:58:00 GMT"
 }
