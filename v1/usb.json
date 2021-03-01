@@ -2591,7 +2591,8 @@
         },
         "0xA8F8": {
             "0x1828": {
-                "bastardkb/bastylmini": { "device_ver": "0x0001", "pid": "0x1828", "vid": "0xA8F8" }
+                "bastardkb/tbk": { "device_ver": "0x0001", "pid": "0x1828", "vid": "0xA8F8" },
+                "bastardkb/tbkmini": { "device_ver": "0x0001", "pid": "0x1828", "vid": "0xA8F8" }
             }
         },
         "0xAB13": {
@@ -4180,5 +4181,5 @@
             }
         }
     },
-    "last_updated": "2021-02-28 16:16:40 GMT"
+    "last_updated": "2021-03-01 05:05:01 GMT"
 }
