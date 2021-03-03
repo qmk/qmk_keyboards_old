@@ -2469,6 +2469,11 @@
                 "nebula12": { "device_ver": "0x0001", "pid": "0x5337", "vid": "0x8968" }
             }
         },
+        "0x9133": {
+            "0x6AAB": {
+                "kindakeyboards/conone65": { "device_ver": "0x0001", "pid": "0x6AAB", "vid": "0x9133" }
+            }
+        },
         "0x9856": {
             "0x7070": {
                 "handwired/oem_iso_fullsize": { "device_ver": "0x0001", "pid": "0x7070", "vid": "0x9856" }
@@ -4184,5 +4189,5 @@
             }
         }
     },
-    "last_updated": "2021-03-03 20:39:26 GMT"
+    "last_updated": "2021-03-03 21:16:06 GMT"
 }
