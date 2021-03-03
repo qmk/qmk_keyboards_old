@@ -486,6 +486,9 @@
             "0x0075": {
                 "rart/rart75": { "device_ver": "0x0001", "pid": "0x0075", "vid": "0x414C" }
             },
+            "0x4040": {
+                "rart/rartlite": { "device_ver": "0x0001", "pid": "0x4040", "vid": "0x414C" }
+            },
             "0x5050": {
                 "rart/rartand": { "device_ver": "0x0001", "pid": "0x5050", "vid": "0x414C" }
             }
@@ -4181,5 +4184,5 @@
             }
         }
     },
-    "last_updated": "2021-03-03 20:29:27 GMT"
+    "last_updated": "2021-03-03 20:39:26 GMT"
 }
