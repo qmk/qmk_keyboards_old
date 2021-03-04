@@ -2360,6 +2360,11 @@
                 "keycapsss/plaid_pad/rev2": { "device_ver": "0x0001", "pid": "0x5050", "vid": "0x7983" }
             }
         },
+        "0x7C10": {
+            "0x0701": {
+                "studiokestra/nue": { "device_ver": "0x0001", "pid": "0x0701", "vid": "0x7C10" }
+            }
+        },
         "0x7C88": {
             "0x7C97": {
                 "latin17rgb": { "device_ver": "0x0001", "pid": "0x7C97", "vid": "0x7C88" }
@@ -4189,5 +4194,5 @@
             }
         }
     },
-    "last_updated": "2021-03-03 22:34:22 GMT"
+    "last_updated": "2021-03-04 01:03:31 GMT"
 }
