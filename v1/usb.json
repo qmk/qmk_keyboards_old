@@ -44,6 +44,11 @@
                 "keebwerk/nano_slider": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0x03A8" }
             }
         },
+        "0x0420": {
+            "0x0420": {
+                "dubba175": { "device_ver": "0x0420", "pid": "0x0420", "vid": "0x0420" }
+            }
+        },
         "0x0483": {
             "0xA372": {
                 "geekboards/macropad_v2": { "device_ver": "0x0002", "pid": "0xA372", "vid": "0x0483" }
@@ -4194,5 +4199,5 @@
             }
         }
     },
-    "last_updated": "2021-03-04 01:03:31 GMT"
+    "last_updated": "2021-03-04 18:16:24 GMT"
 }
