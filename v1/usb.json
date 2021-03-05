@@ -2467,7 +2467,8 @@
                 "mc_76k": { "device_ver": "0x0001", "pid": "0x4D43", "vid": "0x8968" }
             },
             "0x4E4B": {
-                "nk65": { "device_ver": "0x0001", "pid": "0x4E4B", "vid": "0x8968" }
+                "nk65": { "device_ver": "0x0001", "pid": "0x4E4B", "vid": "0x8968" },
+                "nk65/v1_4": { "device_ver": "0x0001", "pid": "0x4E4B", "vid": "0x8968" }
             },
             "0x4E4C": {
                 "nk87": { "device_ver": "0x0001", "pid": "0x4E4C", "vid": "0x8968" }
@@ -4203,5 +4204,5 @@
             }
         }
     },
-    "last_updated": "2021-03-05 04:26:18 GMT"
+    "last_updated": "2021-03-05 05:16:48 GMT"
 }
