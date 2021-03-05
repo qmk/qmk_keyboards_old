@@ -2891,6 +2891,11 @@
                 "cheshire/curiosity": { "device_ver": "0x0001", "pid": "0x0FAD", "vid": "0xCAFE" }
             }
         },
+        "0xCB00": {
+            "0x1337": {
+                "0xcb/1337": { "device_ver": "0x0001", "pid": "0x1337", "vid": "0xCB00" }
+            }
+        },
         "0xCB10": {
             "0x0510": {
                 "keebio/tragicforce68": { "device_ver": "0x0101", "pid": "0x0510", "vid": "0xCB10" }
@@ -4211,5 +4216,5 @@
             }
         }
     },
-    "last_updated": "2021-03-05 18:44:11 GMT"
+    "last_updated": "2021-03-05 22:23:46 GMT"
 }
