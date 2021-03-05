@@ -3065,11 +3065,6 @@
                 "smk60": { "device_ver": "0x0001", "pid": "0x6585", "vid": "0xDEAD" }
             }
         },
-        "0xDEAF": {
-            "0x0913": {
-                "dumbpad": { "device_ver": "0x0001", "pid": "0x0913", "vid": "0xDEAF" }
-            }
-        },
         "0xDEED": {
             "0x0001": {
                 "punk75": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0xDEED" }
@@ -3357,6 +3352,15 @@
             },
             "0x0805": {
                 "handwired/angel": { "device_ver": "0x0100", "pid": "0x0805", "vid": "0xFEED" }
+            },
+            "0x0913": {
+                "dumbpad": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" },
+                "dumbpad/v0x": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" },
+                "dumbpad/v0x_dualencoder": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" },
+                "dumbpad/v0x_right": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" },
+                "dumbpad/v1x": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" },
+                "dumbpad/v1x_dualencoder": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" },
+                "dumbpad/v1x_right": { "device_ver": "0x0007", "pid": "0x0913", "vid": "0xFEED" }
             },
             "0x09F5": {
                 "bear_face": { "device_ver": "0x0100", "pid": "0x09F5", "vid": "0xFEED" },
@@ -4199,5 +4203,5 @@
             }
         }
     },
-    "last_updated": "2021-03-04 23:05:04 GMT"
+    "last_updated": "2021-03-05 04:26:18 GMT"
 }
