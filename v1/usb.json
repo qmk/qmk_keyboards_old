@@ -2644,7 +2644,8 @@
                 "misterknife/knife66_iso": { "device_ver": "0x0001", "pid": "0x4173", "vid": "0xAC11" }
             },
             "0x4175": {
-                "acheron/austin": { "device_ver": "0x0001", "pid": "0x4175", "vid": "0xAC11" }
+                "acheron/austin": { "device_ver": "0x0001", "pid": "0x4175", "vid": "0xAC11" },
+                "boston": { "device_ver": "0x0001", "pid": "0x4175", "vid": "0xAC11" }
             },
             "0x5368": {
                 "acheron/shark": { "device_ver": "0x0001", "pid": "0x5368", "vid": "0xAC11" }
@@ -4210,5 +4211,5 @@
             }
         }
     },
-    "last_updated": "2021-03-05 18:31:14 GMT"
+    "last_updated": "2021-03-05 18:44:11 GMT"
 }
