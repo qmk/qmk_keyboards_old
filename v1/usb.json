@@ -1168,6 +1168,9 @@
             }
         },
         "0x4D47": {
+            "0x5344": {
+                "monstargear/xo87/solderable": { "device_ver": "0x0001", "pid": "0x5344", "vid": "0x4D47" }
+            },
             "0x584F": {
                 "monstargear/xo87/rgb": { "device_ver": "0x0001", "pid": "0x584F", "vid": "0x4D47" }
             }
@@ -4204,5 +4207,5 @@
             }
         }
     },
-    "last_updated": "2021-03-05 05:16:48 GMT"
+    "last_updated": "2021-03-05 18:05:17 GMT"
 }
