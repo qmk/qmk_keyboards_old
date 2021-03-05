@@ -3532,6 +3532,9 @@
             "0x25E3": {
                 "dumbo": { "device_ver": "0x0001", "pid": "0x25E3", "vid": "0xFEED" }
             },
+            "0x2718": {
+                "handwired/lagrange": { "device_ver": "0x0001", "pid": "0x2718", "vid": "0xFEED" }
+            },
             "0x27DB": {
                 "copenhagen_click/click_pad_v1": { "device_ver": "0x0001", "pid": "0x27DB", "vid": "0xFEED" }
             },
@@ -4207,5 +4210,5 @@
             }
         }
     },
-    "last_updated": "2021-03-05 18:05:17 GMT"
+    "last_updated": "2021-03-05 18:26:30 GMT"
 }
