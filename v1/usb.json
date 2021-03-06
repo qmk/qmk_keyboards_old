@@ -3139,6 +3139,11 @@
                 "standaside": { "device_ver": "0x0003", "pid": "0x0412", "vid": "0xF7E0" }
             }
         },
+        "0xF901": {
+            "0xF902": {
+                "aleblazer/zodiark": { "device_ver": "0x0001", "pid": "0xF902", "vid": "0xF901" }
+            }
+        },
         "0xFA7E": {
             "0x0000": {
                 "arisu": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFA7E" }
@@ -4216,5 +4221,5 @@
             }
         }
     },
-    "last_updated": "2021-03-05 22:23:46 GMT"
+    "last_updated": "2021-03-06 18:57:46 GMT"
 }
