@@ -1091,6 +1091,9 @@
             "0xD7DC": {
                 "daisy": { "device_ver": "0x0501", "pid": "0xD7DC", "vid": "0x4B50" }
             },
+            "0xEF6F": {
+                "bm68rgb": { "device_ver": "0x0001", "pid": "0xEF6F", "vid": "0x4B50" }
+            },
             "0xEF8C": {
                 "bm60rgb": { "device_ver": "0x0001", "pid": "0xEF8C", "vid": "0x4B50" },
                 "bm60rgb_iso": { "device_ver": "0x0001", "pid": "0xEF8C", "vid": "0x4B50" }
@@ -4226,5 +4229,5 @@
             }
         }
     },
-    "last_updated": "2021-03-06 21:04:51 GMT"
+    "last_updated": "2021-03-06 23:14:18 GMT"
 }
